@@ -1,4 +1,4 @@
- [![MasterHead](https://github.com/Divyanshu723/Divyanshu723/assets/112752057/5b1e988e-5032-4cc1-90fe-c5eb5746c9a8))](https://www.linkedin.com/in/divyanshu-gupta-24a226173/)
+ [![MasterHead](https://github.com/Divyanshu723/Divyanshu723/assets/112752057/5b1e988e-5032-4cc1-90fe-c5eb5746c9a8)](https://www.linkedin.com/in/divyanshu-gupta-24a226173/)
 <h1 align="center">Hi 👋, I'm Divyanshu Gupta</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
