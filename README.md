@@ -1,11 +1,14 @@
- [![MasterHead](https://github.com/Divyanshu723/Divyanshu723/assets/112752057/5b1e988e-5032-4cc1-90fe-c5eb5746c9a8)](https://www.linkedin.com/in/divyanshu-gupta-24a226173/)
+ [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://www.linkedin.com/in/divyanshu-gupta-24a226173/)
 <h1 align="center">Hi 👋, I'm Divyanshu Gupta</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu723&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu723" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu723&label=Profile%20views&color=1f3847&style=plastic" alt="divyanshu723" /> </p>
 
 <p align="left"> <a href="https://twitter.com/divyanshu723" target="blank"><img src="https://img.shields.io/twitter/follow/divyanshu723?logo=twitter&style=for-the-badge" alt="divyanshu723" /></a> </p>
+
+- 📫 How to reach me **https://www.linkedin.com/in/divyanshu-gupta-24a226173/**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1avuPmdwvygzqi7uhEnn_zLokY1U-UK9W/view?usp=drive_link](https://drive.google.com/file/d/1avuPmdwvygzqi7uhEnn_zLokY1U-UK9W/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
